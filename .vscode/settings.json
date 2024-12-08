@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/objects/",
+        "${workspaceFolder}/checks/",
+    ],
+    "python.REPL.enableREPLSmartSend": false
+}
